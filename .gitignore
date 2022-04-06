@@ -1,0 +1,6 @@
+00-docker/data/*
+!00-docker/data/.gitkeep
+01-docker-and-k8s/data/*
+!01-docker-and-k8s/data/.gitkeep
+01-docker-and-k8s/k8s/*
+01-docker-and-k8s/k8s-patch/nginx-configmap.yaml
